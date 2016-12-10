@@ -90,6 +90,10 @@ body {
     color: black;
 }
 
+.pricing-formatting {
+    text-align: center;
+}
+
 .text-formatting {
     font-size: 2.2em;
     text-align: center;
@@ -109,6 +113,10 @@ body {
     font-size: 1.05em;
     text-align: center;
     text-decoration: underline;
+}
+
+.text-formatting-5 {
+    font-size: 1.2em;
 }
 
 .text-formatting-4head {
